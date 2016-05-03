@@ -12,6 +12,7 @@
 		C3BB9B331CD5E8A9009030D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BB9B311CD5E8A9009030D5 /* Main.storyboard */; };
 		C3BB9B351CD5E8A9009030D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3BB9B341CD5E8A9009030D5 /* Assets.xcassets */; };
 		C3BB9B381CD5E8A9009030D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BB9B361CD5E8A9009030D5 /* LaunchScreen.storyboard */; };
+		C3BB9B401CD65581009030D5 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BB9B3F1CD65581009030D5 /* PersonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C3BB9B341CD5E8A9009030D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3BB9B371CD5E8A9009030D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3BB9B391CD5E8A9009030D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3BB9B3F1CD65581009030D5 /* PersonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C3BB9B341CD5E8A9009030D5 /* Assets.xcassets */,
 				C3BB9B361CD5E8A9009030D5 /* LaunchScreen.storyboard */,
 				C3BB9B391CD5E8A9009030D5 /* Info.plist */,
+				C3BB9B3F1CD65581009030D5 /* PersonCell.swift */,
 			);
 			path = "Missing-Person";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3BB9B401CD65581009030D5 /* PersonCell.swift in Sources */,
 				C3BB9B301CD5E8A9009030D5 /* ViewController.swift in Sources */,
 				C3BB9B2E1CD5E8A9009030D5 /* AppDelegate.swift in Sources */,
 			);
