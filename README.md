@@ -19,4 +19,8 @@ To install and run simply follow these steps:
 
 5)  Build your test data right in the server.js file. Create new endpoints as needed
 # microsoft-API
+<<<<<<< HEAD
 # microsoft-API
+=======
+>>>>>>> f451894aa70657a540e02b1f88b13728137bcb47
+# Microsoft_API
